@@ -460,6 +460,10 @@ body {
     max-width: 1100px;
   }
 
+  .navbar-content {
+    justify-content: space-between;
+  }
+
   /*===================*/
   /* ===== ABOUT ===== */
   /*===================*/
