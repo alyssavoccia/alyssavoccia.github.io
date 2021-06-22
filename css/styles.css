@@ -39,7 +39,7 @@ body {
   background-color: #283149;
   color: white;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
   padding-bottom: 10px;
   position: fixed;
   width: 100%;
